@@ -1,0 +1,9 @@
+{
+  "semi": false,
+  "prettier.singleQuote": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "parser": "flow"
+ 
+
+}
